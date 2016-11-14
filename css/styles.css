@@ -6,6 +6,7 @@ body {
 #header-nav {
 	background-color: #8BACFF;
 	border: 1px solid;
+	border-radius: 0;
 }
 
 .navbar-brand h1 {
